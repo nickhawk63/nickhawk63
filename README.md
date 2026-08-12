@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Nicholas Hawkins 👋
 
-<!--
-**nickhawk63/nickhawk63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity & Database Student
 
-Here are some ideas to get you started:
+I am a cybersecurity and database student building hands-on experience with SQL, MySQL, relational databases, and information technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning how systems, databases, and cybersecurity work together to protect information and support organizations.
+
+## 🛠️ Technical Skills
+
+- SQL
+- MySQL
+- Relational Databases
+- Database Design
+- Data Analysis
+- Cybersecurity Fundamentals
+- Git & GitHub
+- CSV Data Management
+
+## 📊 Featured Project
+
+### Quantigration RMA Database
+
+A MySQL relational database project designed to manage customers, orders, and Return Merchandise Authorization (RMA) records.
+
+The project demonstrates:
+
+- Database and table creation
+- Primary and foreign keys
+- SQL SELECT queries
+- INNER JOIN operations
+- GROUP BY and ORDER BY
+- Data analysis with COUNT
+- UPDATE and DELETE operations
+- Customer, sales, and return analysis
+
+➡️ [View the Quantigration RMA Database Project](https://github.com/nickhawk63/quantigration-rma-database)
+
+## 🎯 Currently Learning
+
+I am continuing to develop my skills in:
+
+- Cybersecurity
+- Database Administration
+- SQL and MySQL
+- Data Analysis
+- Information Technology
+- GitHub and version control
+
+## 🚀 Career Goals
+
+My goal is to continue building practical experience in cybersecurity, databases, and information technology while developing projects that demonstrate my technical skills and problem-solving abilities.
