@@ -58,6 +58,22 @@ The project demonstrates:
 
 ➡️ [View the Cybersecurity Login Analyzer Project](https://github.com/nickhawk63/cybersecurity-login-analyzer)
 
+### 🔎 Python Port Scanner
+
+A beginner Python cybersecurity project that scans an authorized host for common network ports and identifies whether those ports are open or closed.
+
+The project demonstrates:
+
+- Python programming
+- TCP/IP networking concepts
+- Python socket programming
+- Network port scanning
+- Open and closed port detection
+- Working with loops and conditional statements
+- Running cybersecurity tools from the terminal
+
+➡️ [View the Python Port Scanner Project](https://github.com/nickhawk63/python-port-scanner)
+
 ## 🎯 Currently Learning
 
 I am continuing to develop my skills in:
