@@ -14,6 +14,7 @@ Expected Graduation: 2031
 
 ## 🛠️ Technical Skills
 
+- Python
 - SQL
 - MySQL
 - Relational Databases
