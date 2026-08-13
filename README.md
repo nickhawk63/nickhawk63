@@ -36,6 +36,21 @@ The project demonstrates:
 
 ➡️ [View the Quantigration RMA Database Project](https://github.com/nickhawk63/quantigration-rma-database)
 
+### 🔐 Cybersecurity Login Analyzer
+
+A Python cybersecurity project that analyzes login attempts and detects suspicious activity and potential brute-force attacks.
+
+The project demonstrates:
+
+- Python programming
+- Authentication monitoring
+- Failed login detection
+- Brute-force attack detection
+- Security log analysis
+- IP address monitoring
+
+➡️ [View the Cybersecurity Login Analyzer Project](https://github.com/nickhawk63/cybersecurity-login-analyzer)
+
 ## 🎯 Currently Learning
 
 I am continuing to develop my skills in:
