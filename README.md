@@ -6,6 +6,12 @@ I am a cybersecurity and database student building hands-on experience with SQL,
 
 I enjoy learning how systems, databases, and cybersecurity work together to protect information and support organizations.
 
+## 🎓 Education
+
+**Bachelor of Science in Cybersecurity**  
+Southern New Hampshire University  
+Expected Graduation: 2031
+
 ## 🛠️ Technical Skills
 
 - SQL
