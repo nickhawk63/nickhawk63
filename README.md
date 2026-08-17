@@ -24,6 +24,21 @@ Expected Graduation: 2031
 - Git & GitHub
 - CSV Data Management
 
+- ## 🚀 Independent Learning
+
+In addition to my college coursework, I regularly practice Python, cybersecurity fundamentals, and scripting through independent hands-on exercises and personal projects.
+
+I am currently building my skills in:
+
+- Python scripting and programming fundamentals
+- Cybersecurity-focused Python exercises
+- Conditional logic and security monitoring
+- Network ports and basic network security
+- Git and GitHub
+- Problem-solving and debugging
+
+As my skills continue to develop, I will add independent cybersecurity projects to this portfolio.
+
 ## 📊 Featured Project
 
 ### Quantigration RMA Database
