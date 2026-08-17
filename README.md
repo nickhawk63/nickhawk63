@@ -24,7 +24,7 @@ Expected Graduation: 2031
 - Git & GitHub
 - CSV Data Management
 
-- ## 🚀 Independent Learning
+ ## 🚀 Independent Learning
 
 In addition to my college coursework, I regularly practice Python, cybersecurity fundamentals, and scripting through independent hands-on exercises and personal projects.
 
